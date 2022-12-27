@@ -7,7 +7,7 @@
   
 - <b>Microsoft Azure</b>
   - [Configuring a Virtual Machine](https://github.com/hazim2016/configure-vm)
-  - [Setting up Active directory](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Setting up Active directory](https://github.com/hazim2016/settingup-ad)
 
 <h2>🤳Connect with me:</h2>
 
