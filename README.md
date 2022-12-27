@@ -6,7 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/hazim2016/osticket-prereqs)
   
 - <b>Microsoft Azure</b>
-  - [Configuring a Virtual Machine](https://github.com/joshmadakorcc/configure-ad)
+  - [Configuring a Virtual Machine](https://github.com/hazim2016/configure-vm)
   - [Setting up Active directory](https://github.com/joshmadakorcc/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
