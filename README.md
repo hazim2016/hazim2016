@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cloud Engineering Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b>Kubernetes: </b>
   - [osTicket: Prerequisites and Installation](https://github.com/hazim2016/osticket-prereqs)
   
 - <b>Microsoft Azure</b>
