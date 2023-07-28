@@ -10,4 +10,5 @@
   - [Setting up Active directory](https://github.com/hazim2016/settingup-ad)
 
 - <b>Docker</b>
-  -[Containerize and deploy an NGNIX SERVER]
+  - [Containerize and deploy an nginx server](https://github.com/hazim2016/configure-vm)
+
