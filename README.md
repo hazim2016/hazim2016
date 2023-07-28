@@ -9,4 +9,5 @@
   - [Configuring a Virtual Machine](https://github.com/hazim2016/configure-vm)
   - [Setting up Active directory](https://github.com/hazim2016/settingup-ad)
 
-- <b>Containerization</b>
+- <b>Docker</b>
+  -[Containerize and deploy an NGNIX SERVER]
