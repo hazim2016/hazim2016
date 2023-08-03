@@ -6,7 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/hazim2016/osticket-prereqs)
   
 - <b>Terraform</b>
-  - [Deploying a three tier architecture using Terraform](https://github.com/hazim2016/settingup-ad)
+  - [Deploying a highly-available three tier architecture using Terraform](https://github.com/hazim2016/settingup-ad)
 
 - <b>Docker</b>
   - [Containerize and deploy an nginx server](https://github.com/hazim2016/containerize-and-deploy-ngnix-container)
