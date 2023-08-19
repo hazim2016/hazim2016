@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cloud Engineering Projects:</h2>
 
-- <b>Kubernetes: </b>
+- <b>Migration</b>
   - [Migrating a database with Database Migration Service ](https://github.com/hazim2016/osticket-prereqs)
   
 - <b>Terraform</b>
