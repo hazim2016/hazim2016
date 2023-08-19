@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cloud Engineering Projects:</h2>
 
 - <b>Kubernetes: </b>
-  - [osTicket: Prerequisites and Installation](https://github.com/hazim2016/osticket-prereqs)
+  - [Migrating a database with Database Migration Service ](https://github.com/hazim2016/osticket-prereqs)
   
 - <b>Terraform</b>
   - [Deploying a highly-available three tier architecture using Terraform](https://github.com/hazim2016/settingup-ad)
